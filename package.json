@@ -1,0 +1,11 @@
+{
+  "name": "getting-started-with-angular",
+  "version": "1.0.0",
+  "description": "simple generator to get started with angular",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "author": "Oscar Rieken",
+  "license": "ISC"
+}
